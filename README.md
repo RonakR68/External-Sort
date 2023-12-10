@@ -14,7 +14,7 @@
 g++ -o external_sort external_sort.cpp
 
 2. Run the executable:
-./external_sort <inputFilePath> <outputFilePath>
+./external_sort inputFilePath outputFilePath
 
 Replace <inputFilePath> with the path to your unsorted input file and <outputFilePath> with the desired path for the sorted output file.
 
