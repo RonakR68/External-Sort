@@ -16,7 +16,7 @@ g++ -o external_sort external_sort.cpp
 2. Run the executable:
 ./external_sort inputFilePath outputFilePath
 
-Replace <inputFilePath> with the path to your unsorted input file and <outputFilePath> with the desired path for the sorted output file.
+Replace inputFilePath with the path to your unsorted input file and outputFilePath with the desired path for the sorted output file.
 
 A Python script (generate_input.py) is provided to generate a sample unsorted input file.
 
